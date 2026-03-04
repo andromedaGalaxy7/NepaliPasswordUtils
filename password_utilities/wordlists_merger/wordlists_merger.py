@@ -10,7 +10,7 @@ from utils import *
 
 # Parameters for the create_single_wordlist function
 FILE_LIST = []
-DIRECTORIES_LIST = ["web_extractors"]
+DIRECTORIES_LIST = ["../../data_extractors"]
 ENGLISH_DICTIONARY_FILE = "data/words_alpha.txt"
 OUTPUT_FILENAME = "masterwordlist.txt"
 WHITESPACE_EQUIVALENT = "@/."
